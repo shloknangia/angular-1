@@ -1,0 +1,4 @@
+features of angular 1
+-DOM manipulation
+-http methods(now we have http.get instead of xml or xhr requests)
+-maintability and easy
